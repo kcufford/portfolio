@@ -16,7 +16,6 @@ Welcome! This is my public portfolio for Telling Stories with Data at CMU - Spri
 
 <br clear="left"/>
 
-
 I have always been captivated by the art of storytelling. I found a love for theatre at the age of 10 and went on to receive a BFA in Musical Theatre at Ball State University. I worked professionally as an actor after graduating, eventually moving to Seattle.  When not performing, I worked part-time as a receptionist for Freestone Capital Management, a wealth management and investments firm. During the COVID-19 pandemic, my part-time receptionist job turned into a full-time Operations Associate role, and I had the opportunity to learn the business of the financial services industry from the ground up. This experience allowed me to wear many hats, with my role spanning event planning, marketing analysis and content creation, and support on projects to improve operational efficiency.
 
 As a graduate student at Carnegie Mellon University, I now have the opportunity to blend my creative instincts and analytical prowess through the MEIM program. Upon graduating, I plan to seek roles in production development, network/studio strategy, or acquisitions/development. Entertainment is all about telling stories, and I look forward to leveraging my diverse skillset and passion for storytelling to make a dynamic impact.
