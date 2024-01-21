@@ -4,7 +4,7 @@
 Welcome! This is my public portfolio for Telling Stories with Data at CMU - Spring 2024
 
 # About me
-![Kelly Ufford - Headshot.jpg]
+![image](assets/images/Kelly Ufford - Headshot.jpg)width="100" height="100"
 
 **Name:** Kelly Ufford
 
@@ -35,4 +35,4 @@ Having worked with data analysis in my previous roles, I am excited to grow my s
 ## Final project
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
