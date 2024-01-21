@@ -17,12 +17,12 @@ Having worked with data analysis in my previous roles, I am excited to grow my s
 
 - Best practices for presenting data across digital platforms
 - How to effectively choose the best graph/chart/or other medium for presenting data
-- Sharpening my eye for critiquing data and clearly articulate/justify critiques
+- Sharpening my eye for critiquing data and clearly articulating/justifying critiques
 - github and Tableau introduction
 
 # Portfolio
 
-## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment 1: [Visualizing government Debt](visualizing-government-debt)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
