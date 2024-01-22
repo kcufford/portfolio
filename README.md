@@ -26,7 +26,7 @@ Having worked with data analysis in my previous roles, I am excited to grow my s
 - Best practices for presenting data across digital platforms
 - Effectively choosing the best design medium for presenting data
 - Sharpening my eye for critiquing data and clearly articulating/justifying critiques
-- github and Tableau introduction
+- GitHub and Tableau introduction
 
 # Portfolio
 
