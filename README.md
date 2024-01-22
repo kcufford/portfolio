@@ -10,9 +10,11 @@ Welcome! This is my public portfolio for Telling Stories with Data at CMU - Spri
 
 **Pronouns:** She/Her
 
-**Education:** Master of Entertainment Industry Management (MEIM) at Carnegie Mellon University
+:mortar_board:**Education:** Master of Entertainment Industry Management (MEIM) at Carnegie Mellon University
 
-**Hobbies:** Hiking, kayaking, baking, watching movies/TV, video games
+:sunrise_over_mountains:**Hobbies:** Hiking, kayaking, baking, watching movies/TV, video games
+
+:movie_camera:**Currently Watching:**  *Black Cake* on Hulu and *The Traitors - Season 2* on Peacock
 
 <br clear="left"/>
 
