@@ -6,7 +6,7 @@ Welcome! This is my public portfolio for Telling Stories with Data at CMU - Spri
 # About me
 <img align="left" src="Kelly Ufford - Headshot2.jpg" width="200"/>
  
-:_wave: **Name:** Kelly Ufford
+:wave: 👋**Name:** Kelly Ufford
 
 :star: **Pronouns:** She/Her
 
