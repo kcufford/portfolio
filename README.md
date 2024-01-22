@@ -6,9 +6,9 @@ Welcome! This is my public portfolio for Telling Stories with Data at CMU - Spri
 # About me
 <img align="left" src="Kelly Ufford - Headshot2.jpg" width="200"/>
  
-**Name:** Kelly Ufford
+:wave:**Name:** Kelly Ufford
 
-**Pronouns:** She/Her
+:star:**Pronouns:** She/Her
 
 :mortar_board:**Education:** Master of Entertainment Industry Management (MEIM) at Carnegie Mellon University
 
