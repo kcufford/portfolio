@@ -6,15 +6,15 @@ Welcome! This is my public portfolio for Telling Stories with Data at CMU - Spri
 # About me
 <img align="left" src="Kelly Ufford - Headshot2.jpg" width="200"/>
  
-:wave: 👋**Name:** Kelly Ufford
+ &#128075; **Name:** Kelly Ufford
 
-:star: **Pronouns:** She/Her
+&#x2B50; **Pronouns:** She/Her
 
-:mortar_board: **Education:** Master of Entertainment Industry Management (MEIM) at Carnegie Mellon University
+&#x1F393; **Education:** Master of Entertainment Industry Management (MEIM) at Carnegie Mellon University
 
-:sunrise_over_mountains: **Hobbies:** Hiking, kayaking, baking, watching movies/TV, video games
+&#x1F5FB; **Hobbies:** Hiking, kayaking, baking, watching movies/TV, video games
 
-:movie_camera: **Currently Watching:**  *Black Cake* on Hulu and *The Traitors - Season 2* on Peacock
+&#x1F3A5; **Currently Watching:**  *Black Cake* on Hulu and *The Traitors - Season 2* on Peacock
 
 <br clear="left"/>
 
