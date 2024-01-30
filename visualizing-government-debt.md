@@ -6,6 +6,8 @@
 
 <iframe src="https://data.oecd.org/chart/7kiD" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kiD" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
+This first exercise was to demonstrate that visualizations can be sourced from different websites, customized, and then embedded on your own site. I opted to select data from 2020 for this chart, which provides a good number of countries to compare to the average OECD debt-to-GDP ratio. The chart is interactive, which allows users to hover over a country’s bar to get more information. The bar gets highlighted in a different color for easy visibility, and a tooltip appears to provide specific data about the country’s ratio.
+
 -------------
 
 ### Part 2: Working with Tableau
