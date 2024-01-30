@@ -42,6 +42,12 @@ The purpose of this next visual was to show that data can be exported from one s
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+<br/>
+
+For this final section, I chose to use data from 2002-2022 for the G7 countries. Using all the countries from the OECD download for the heat map felt like a bit of information overload to me, which is why I chose to stick with the 7. I thought it would be interesting to see what I could do with a smaller data set. My initial idea was to show the ratio trend over the 20 years, so I opted to do a line chart. I set my x-axis tick marks every two years to prevent overcrowding along the axis. Additionally, I have the axis time period ending in 2023 (not shown) to allow for a little extra space along the righthand side so the labels aren’t butting up against the border of the graphic.
+
+The first thing that stood out to me was Japan’s high ratio trend line. I wanted a basis for comparison within the chart, so I picked Germany, which was on the other end of the spectrum. My use of color helps highlight these two countries, with the blue representing Germany’s lower (better) ratio compared to the red representing Japan’s higher (worse) ratio. Since I included all G7 countries, I made the remaining five countries grey. The grey is not distracting from the story of Japan and Germany, but it provides additional insight into how the two countries compare with the rest of the group. I found it interesting that the trend line for these five countries is very similar. I felt showing the labels at the end of all the lines was necessary so the viewer could easily interpret which line belonged to which country.  
+
 -------------
 
 ### Summary
