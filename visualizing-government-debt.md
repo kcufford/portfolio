@@ -52,5 +52,14 @@ The first thing that stood out to me was Japan’s high ratio trend line. I want
 
 ### Summary
 
+I enjoyed exploring the different ways to showcase a dataset throughout this assignment. I gravitated toward the bar and line charts, but creating the heat map was a good exercise. As mentioned above, it is a lot of information to parse through at first glance, but there are use cases for a visualization like this. The map could provide a quick look at behavior over time, seeing where ratios start to spike and to what extreme.
+ 
+When exploring the bar chart on the OECD website, I didn't like how every country was a different color when clicked. I prefer the way the graph is shown from the embedded link, with only a slight color variation change to identify the country selected in comparison to the average.
 
-Citation: OECD (2024), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 27 January 2024)
+I had fun experimenting in Tableau for the final part of the assignment. The line chart was a logical visualization for displaying the trends over time for only seven countries. Since these are well-known countries, I didn't feel the need to add a key or fully spell out the country names. However, I could see some potential confusion if someone does not know the DEU abbreviation for Germany. If this was geared towards an audience less familiar with the countries, then it may be best to spell out the full name.
+
+ For my chart, I like how when a line is selected, the others fade into the background, and when you click out, it returns to the original color scheme. I prefer this to the multi-colored bars on the OECD site that remain colored unless you double-click them to remove the color. In this case, the showcased line keeps the visualization clear from any extra colors that may distract the viewer.
+
+However, if I could make a change, I would experiment with making the grey lines darker when selected while keeping the red and blue lines the same. This could highlight a couple more countries for comparison while keeping in the neutral family. As a Tableau novice, I was not sure how to make this change, but it is certainly something I may look into for future assignments!
+
+**Source: OECD (2024), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 27 January 2024)**
