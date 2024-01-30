@@ -6,6 +6,7 @@
 
 <iframe src="https://data.oecd.org/chart/7kiD" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kiD" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
+<br/>
 
 This first exercise was to demonstrate that visualizations can be sourced from different websites, customized, and then embedded on your own site. I opted to select data from 2020 for this chart, which provides a good number of countries to compare to the average OECD debt-to-GDP ratio. The chart is interactive, which allows users to hover over a country’s bar to get more information. The bar gets highlighted in a different color for easy visibility, and a tooltip appears to provide specific data about the country’s ratio.
 
@@ -23,24 +24,23 @@ This first exercise was to demonstrate that visualizations can be sourced from d
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+<br/>
+
 The purpose of this next visual was to show that data can be exported from one source and then uploaded to Tableau to create a new visualization.  In this case, we created a heatmap, which differs from the previous chart in that data is shown for all countries spanning over a longer period of time (1995-2022).  Tableau allows for custom colorization, so the heat map showcases blue for positive ratios under 100%. For those ratios greater than 100%, the colors go from orange to deep red to show the extremely high ratios that may be of concern.
 
 -------------
 
 ### Part 3: Creating Your Own Visualization
 
-<div class='tableauPlaceholder' id='viz1706464674990' style='position: relative'><noscript><a href='#'><img alt='Japan&#39;s debt-to-GDP ratio continues to rise, while Germany stays lowA look at the G7 debt-to-GDP ratio trends over the past 20 years. This ratio is a key indicator for the sustainability of government finance, and changes over time primarily reflect the impact of past government deficits. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;G7&#47;G7DebttoGDP2002-2022&#47;G7&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='G7DebttoGDP2002-2022&#47;G7' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;G7&#47;G7DebttoGDP2002-2022&#47;G7&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div> 
+<div class='tableauPlaceholder' id='viz1706575895474' style='position: relative'><noscript><a href='#'><img alt='Japan&#39;s debt-to-GDP ratio continues to rise, while Germany stays lowA look at the G7 debt-to-GDP ratio trends over the past 20 years. This ratio is a key indicator for the sustainability of government finance, and changes over time primarily reflect the impact of past government deficits. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;G7&#47;G7DebttoGDP2002-2022&#47;G7&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='G7DebttoGDP2002-2022&#47;G7' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;G7&#47;G7DebttoGDP2002-2022&#47;G7&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1706464674990');
+  var divElement = document.getElementById('viz1706575895474');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
-
-
 
 -------------
 
