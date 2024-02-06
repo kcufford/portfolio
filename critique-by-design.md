@@ -18,3 +18,40 @@ When choosing a data visualization for this assignment, I wanted to find a topic
 | ------| ------| ------| ------| ------| ------| ------| ------|
 | Rating |     4      |     3        |       7        |       8      |       6       |      3     |      6     |
 
+_Overall Observations_
+
+The first things that stood out to me were the incomplete title and the gaps on the line. I was particularly curious about the year gaps because the visualization does not indicate what those mean. Was there 0% participation? Was data not available for that year? The lack of completeness and specificity did not work well in the graph. 
+
+The title "%of participants who are women vs." does not properly describe what we are looking at. What are we "versing" women against? Are we missing a second data set to use as a comparison? Additionally, the article focuses more on IOC gender equity (as noted in the title) rather than athlete participation until you get towards the end. At first, I was unsure which group this graph belonged to, but looking at the chart title "Historical Participation of Women at the Summer Olympics" made me realize it was about athletes. A better title could be "Percentage of Women Summer Olympic Athletes Continues to Rise."
+
+Another thing I would change is removing the table of the specific year data points. It isn't necessary to have both, but since it was not an interactive graph, the chart helps viewers who may be more interested in a data point for a specific year. A solution for this is an interactive tool tip along the graph, or a  filter by decade that zooms in to clearly see the lines for the specific percentage data points for the selected year
+
+What worked well with the graph was the layout and simplicity. Using a line chart made the visualization very straightforward, and it was easy to follow the trend of participant changes over time. At a quick glance, it doesn't take much effort to see that something is improving as the years go along. The scaling of both axes makes sense, especially since the x-axis spans over 100 years. There is no chart junk on either the graph or the table, so that eliminates any distractions. The font was readable, and hierarchy was demonstrated with the larger font size of the title.
+
+_Primary Audience_
+
+This visualization's primary audience is people interested in Olympic athletes, with a particular focus on the interest of equity for women in sports. The website the visualization is on is geared towards swimming athletes, so the specific topic of female participation in the Olympics could be of interest to website visitors. The most decorated female swimmer of all time is Katie Ledecky, so there could be a large audience from the website to the athletic community and non-athletes interested in the Olympics. The article was posted in 2020, which was supposed to be an Olympic year. This story would be timely for when it was written, and the visualization could spark conversation across different demographics if done well.
+
+However, I don't think this visualization is effective at reaching the audience. For example, if only the line chat were shared online as-is, there would be no indication that this is about female Olympic athletes, their growth in participation, and the continuing conversation around equity in the Olympics. This is due to elements mentioned in the previous question, such as having a poor title and needing more clarification on the line gaps. It feels incomplete and leaves audiences confused.
+
+_Critique Method Thoughts & Recommendations_
+
+This method of critiquing made me dig into the details more than the Good Charts method. Good Charts is a good introduction to a high-level view of critiquing. It touches on the "why" behind likes/dislikes, but I found that the Few method goes deeper into the "why". This method is more all-encompassing, specifically focusing on clarity and audience. Audience understanding is at the heart of creating the visualization. Focusing on perception and intuitiveness allows a deeper look into the visualization's meaning rather than focusing solely on design elements/aesthetics.
+ 
+Since the data focuses on women athlete participation rather than IOC committee makeup, these are the elements I would recommend changes for:
+
+1. The original title is incomplete, so updating it to something like "Women Olympic Athletes Continue to Run Towards the Equity Finish Line" would tell a better story.
+ 
+2. Changing the data points/focus. The data download has so many more data points to play with! The chart on the website only shows Summer Olympic data, but the download also includes winter participation. For a story about overall participation, including the data points on both summer and winter participation is important to get the whole picture.
+
+ 3. Digging into the data more, I would change the layout to a scatter plot to show the comparison of % of women Participants to % of women events by year. This could be an interesting way to showcase the trend of the increasing % of participation by also comparing the % of women's events offered in the Olympics to see if there is any correlation. Since I don't have any information on the "Gap years, I would start the visualization in the year 1948, so it is a continuous flow of data.
+
+-------------
+
+### Part 3: Wireframe
+
+For my initial redesign, I wanted to use more of the dataset than what was utilized in the original article.
+
+The first wireframe I did was testing out the scatter plot recommendation I gave in part 3. I first sketched the idea, and then tried to recreate it in Tableau. I found that in this case, comparing the % of women participants to the % of women's events on each axis would better show the correlation. However, this proved unsuccessful at visually seeing the increasing trend over time.
+
+<img src="IOC Image_SwimSwam.png"/>  
