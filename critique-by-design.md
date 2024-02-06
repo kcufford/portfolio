@@ -13,3 +13,8 @@ When choosing a data visualization for this assignment, I wanted to find a topic
 -------------
 
 ### Part 2: Choosing a Visualization
+
+|    -   | Usefulness | Completeness | Perceptibility | Truthfulness | Intuitiveness | Aesthetics | Engagement | 
+| ------| ------| ------| ------| ------| ------| ------| ------|
+| Rating |     4      |     3        |       7        |       8      |       6       |      3     |      6     |
+
