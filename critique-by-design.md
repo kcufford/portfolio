@@ -66,8 +66,30 @@ The first wireframe I did was testing out the scatter plot recommendation I gave
  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-< br/>
+<br/>
 
 My next idea was to recreate the line chart but include more detail than the original. In this case, I followed my recommendation of starting at 1948 and separating the Winter and Summer Olympic data.  I liked this better than the original because it makes for an easy comparison between the two, however I did notice that the trend lines were similar, which was also noted in my feedback in Part 4.
 
 <img src="Linechart1.jpg" width="500"/>
+
+<br/>
+
+Before sending for critique, I wanted to try one more idea in Tableau, and that was to do a double bar chart with the X axis as the year with summer/winter shown for each year as an individual bar, and then % of women participants on the Y axis. I couldn't figure out how to do the side-by-side double bar graph, so Tableau defaulted to a stacked bar graph. I quickly realized this visualization would not work because starting in 1992, the Winter and Summer Olympics rotated years, whereas prior to this time, both were held in the same year.  This resulted in a hard-to-read graph that would be confusing for the viewer to interpret. Additionally, this type of graph sums the percentage of the year, so, at its peak, it shows over 55% participation when the highest for a single season has now reached 47.7%. This could potentially be seen as a misrepresentation in the context of the article. 
+
+<div class='tableauPlaceholder' id='viz1707193988829' style='position: relative'><noscript><a href='#'><img alt='Sheet 4 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IO&#47;IOC2a&#47;Sheet4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IOC2a&#47;Sheet4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IO&#47;IOC2a&#47;Sheet4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+ var divElement = document.getElementById('viz1707193988829');
+ var vizElement = divElement.getElementsByTagName('object')[0];
+ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+ var scriptElement = document.createElement('script');
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+<br/>
+
+After this test, I decided to move forward with my second option of the double-line graph for feedback in Part 4.
+
+-------------
+
+### Part 4: Test the Solution
