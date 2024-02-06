@@ -54,7 +54,7 @@ For my initial redesign, I wanted to use more of the dataset than what was utili
 
 The first wireframe I did was testing out the scatter plot recommendation I gave in part 3. I first sketched the idea, and then tried to recreate it in Tableau. I found that in this case, comparing the % of women participants to the % of women's events on each axis would better show the correlation. However, this proved unsuccessful at visually seeing the increasing trend over time.
 
-<img src="Scatterplot1.jpg" width="500"/>
+<img src="Scatterplot1.jpg" width="700"/>
 
 <div class='tableauPlaceholder' id='viz1707193085446' style='position: relative'><noscript><a href='#'><img alt='Sheet 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IO&#47;IOC2_17071930379580&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IOC2_17071930379580&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IO&#47;IOC2_17071930379580&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 <script type='text/javascript'>
@@ -70,7 +70,7 @@ The first wireframe I did was testing out the scatter plot recommendation I gave
 
 My next idea was to recreate the line chart but include more detail than the original. In this case, I followed my recommendation of starting at 1948 and separating the Winter and Summer Olympic data.  I liked this better than the original because it makes for an easy comparison between the two, however I did notice that the trend lines were similar, which was also noted in my feedback in Part 4.
 
-<img src="Linechart1.jpg" width="500"/>
+<img src="Linechart1.jpg" width="700"/>
 
 <br/>
 
