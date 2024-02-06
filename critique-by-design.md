@@ -69,3 +69,5 @@ The first wireframe I did was testing out the scatter plot recommendation I gave
 < br/>
 
 My next idea was to recreate the line chart but include more detail than the original. In this case, I followed my recommendation of starting at 1948 and separating the Winter and Summer Olympic data.  I liked this better than the original because it makes for an easy comparison between the two, however I did notice that the trend lines were similar, which was also noted in my feedback in Part 4.
+
+<img src="Linechart1.jpg" width="500"/>
