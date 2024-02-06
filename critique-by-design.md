@@ -88,7 +88,7 @@ Before sending for critique, I wanted to try one more idea in Tableau, and that 
 
 <br/>
 
-After this test, I decided to move forward with my second option of the double-line graph for feedback in Part 4.
+After this test, I decided to move forward with my second option of the double-line graph for feedback in Part 4. Given that I concluded that the audience for this data is general, this style of visualization would be recognizable for viewers to grasp the story and interpret the data.
 
 -------------
 
