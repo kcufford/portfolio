@@ -111,3 +111,28 @@ Moving forward in the process, I want to add a brief statement at the top of the
 
 ### Part 5: Building the Solution
 
+<div class='tableauPlaceholder' id='viz1707252245418' style='position: relative'><noscript><a href='#'><img alt='The Long Race to Equity for Women Olympic AthletesThe International Olympic Committee (IOC) is seeking to advance equality for women both on and off the field. Significant progress has been made in recent years regarding the percentage of women athletes participating in the Olympics out of all athletes, and the IOC projects participation will continue to rise.*No data was recorded for the 1916 (Summer), 1940 (Summer&#47;Winter), and 1944 (Summer&#47;Winter) Olympics. The games were canceled due to the outbreak of WWI and WWII. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IO&#47;IOCCritique&#47;IOC&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IOCCritique&#47;IOC' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IO&#47;IOCCritique&#47;IOC&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+<script type='text/javascript'>
+ var divElement = document.getElementById('viz1707252245418');
+ var vizElement = divElement.getElementsByTagName('object')[0];
+ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+ var scriptElement = document.createElement('script');
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+<br/>
+
+**Format:** In my final redesign, I chose to do a double-line graph. As stated above, this better shows the trendline as a comparison of the two seasons since both follow a similar upward trajectory. I was able to add (and hide) a second Y-axis for % of Women Participants, and I changed that axis to a circle graph.  This way the points on the line chart are more pronounced (like a connected scatter plot), so viewers can easily tell where the percentages are for each year.  I did not have the data of individual sports vs. total sports, as recommended in Part 4, but I did add a tooltip to show the total number of events and the total number of women’s events to provide additional context.
+
+Since the gaps on the first visualization were confusing, I decided to keep the data connection continuous through those years. I included a note in the introduction that no data was gathered in those years because the Olympic games were canceled due to the First and Second World Wars. 
+Title: I cleaned up the title and made it more succinct, and I also added a brief line of introduction for the data to help give context to the visualization. I chose the title “The Long Race to Equity for Women Olympic Athletes” because it felt more complete than the original title.  The original title gave the impression the graphic was supposed to be a comparison (“vs.”), but gave no indication to what comparison should be. 
+
+**Color:** The colors I chose are reflective of the summer (yellow) and winter (blue). I initially wanted to try a lighter blue (as seen in the bar graph above), but when I tested the graph in greyscale, it was too hard to differentiate the two categories. My solution was to opt for a darker blue to avoid any issues of confusing the two lines and to make it more accessible.
+
+**Clarity:** My final rendering helps bring clarity to the original graphic. I think having both the summer and winter participation lines provides a fuller picture of women’s Olympic participation over time, rather than just focusing on summer.  To help with clarity, I also focused on the order and prominence of my elements. I bolded my title to call attention to the central idea of the story for this visual, and then the colors on the graph are what pops out next. 
+
+**Final Thoughts:** If I were to do another redesign, I would want to spend more time exploring with the data set. Although the participation of men was not initially included, that could have been an easy data point to add. It would be nice to know the total number of events men participated in, but I recognize there would be overlap with women’s events. In this case, I would prefer to have that data be available as a part of the data set rather than trying to figure it out and potentially be inaccurate.  
+
+Overall, I enjoyed the process of experimenting with different visual ideas to figure out what works best. I realized that some of my ideas would not work with this data set (such as the bar graph), and I also concluded the original design was on to something; it just needed some refining. The visual lacked a clear story and understanding of context, and I think the redesign does a good job of bringing life to the data.  The original story certainly has a target audience, especially since there is always a buzz around Olympic topics, so making something visually appealing will help encourage circulation and conversation! 
+
