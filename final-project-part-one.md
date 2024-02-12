@@ -4,7 +4,7 @@
 # Final Project: Part 1
 
 ## Outline
-> It is no secret 2024 that Barbie was the smash hit at the box office in 2023, but was this a one-time phenomenon thanks to the “Barbenheimer” craze, or was there another driving factor? In my research, I am exploring the impact IP-based films have made at the box office and how these films have resurrected the movie-going experience in a post-pandemic era.
+> It is no secret 2024 that *Barbie* was the smash hit at the box office in 2023, but was this a one-time phenomenon thanks to the “Barbenheimer” craze, or was there another driving factor? In my research, I am exploring the impact IP-based films have made at the box office and how these films have resurrected the movie-going experience in a post-pandemic era.
 >
 > The audience for this project is twofold: fans of movies and makers of movies.  For fans, they may approach this story with the following questions:
 > 
@@ -27,15 +27,15 @@
 > 
 > **Disordering event & Rising Action:** Enter the IP films of 2023.
 > 
->We start to see a climb in box office numbers with hits like Super Mario Bros and Spiderman: Across the Spider-Verse. As the story continues to rise, we will explore the popularity of the top 100 releases of 2023 by genre, both domestic and worldwide.  We will also take a look at who is coming back to the theatre and why.
+>We start to see a climb in box office numbers with hits like *Super Mario Bros* and *Spiderman: Across the Spider-Verse*. As the story continues to rise, we will explore the popularity of the top 100 releases of 2023 by genre, both domestic and worldwide.  We will also take a look at who is coming back to the theatre and why.
 > 
 > **Climax:** Barbie Mania
 >
-> Barbie is the highest point of our 2023 trends, and we will compare the film’s box office stats to the other top movies of 2023. We will also explore demographic data from the opening weekend, the effects of the Barbie movie marketing strategy, and its potential correlation to its box office success.
+> *Barbie* is the highest point of our 2023 trends, and we will compare the film’s box office stats to the other top movies of 2023. We will also explore demographic data from the opening weekend, the effects of the *Barbie* movie marketing strategy, and its potential correlation to its box office success.
 >
 > **Conflict:** Is IP enough to keep audiences coming to the theatre? Is “IP fatigue” setting in?
 >
-> In this section, we will drive into some of the potential conflicts of our story.  First, we will look at staying at home and streaming film vs. wanting to come to the theatre. We’ll also see if there is any impact from the SAG-AFTRA strikes that may have affected certain IP films, such as Blue Beetle, due to a lack of promotion. Finally, we’ll dig into the question of whether or not audiences want IP-based films or more original content.
+> In this section, we will drive into some of the potential conflicts of our story.  First, we will look at staying at home and streaming film vs. wanting to come to the theatre. We’ll also see if there is any impact from the SAG-AFTRA strikes that may have affected certain IP films, such as *Blue Beetle*, due to a lack of promotion. Finally, we’ll dig into the question of whether or not audiences want IP-based films or more original content.
 >
 > **Resolution:** 2024 Horizon
 >
@@ -43,19 +43,19 @@
 >
 > **Call to Action**
 >
-> - Download [Letterboxd](https://letterboxd.com/) : Watch films and review them, and join the conversation beyond the silver screen!
+> - Download [Letterboxd](https://letterboxd.com/): Watch films, review them, and join the conversation beyond the silver screen!
 > - Interested in supporting original works?  Mark your calendars for the [2024 Carnegie Mellon International Film Festival](https://www.cmuiff.com/),  March 21 - April 7, 2024!
->  - Whether you prefer IP-based film or original movies, head to the theatre on September 3, 2024 for National Cinema Day!
+> - Whether you prefer IP-based films or original movies, head to the theatre on September 3, 2024, for National Cinema Day!
 
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline and include elements of your story.  
 
 Text here...
 
 # The data
-> At this point in my research, I have found a lot of data to work with. My goal is not to focus only on box office trends but to include other data relevant to the audience's return to the movie theatre. Since I have a lot of options to work with, the trick will be to make sure what I am using supports my story. This may mean not using all the options below.  Boxofficemojo.com is one of my primary data sources, where I can see daily, weekly, and yearly box office grosses. Unfortunately, there is no way to download the data sets, so these will require a manual copy and paste to Excel.  Statista.com has also been an excellent resource to look at demographic data and box office trends.  I have also found a few industry reports from Morningconsult.com and Motionpictures.org to further support demographic data, audience preferences, and other industry trends. I have detailed below how each particular resource may be used. 
+> At this point in my research, I have found a lot of data to work with. My goal is not to focus only on box office trends but to include other data relevant to the audience's return to the movie theatre. Since I have a lot of options to work with, the trick will be to make sure what I am using supports my story. This may mean not using all the options below. Box Office Mojo is one of my primary data sources, where I can see daily, weekly, and yearly box office grosses. Unfortunately, there is no way to download the data sets, so these will require a manual copy and paste to Excel.  Statista has also been an excellent resource to look at demographic data and box office trends.  I have also found a few industry reports from Morning Consult and the Motion Picture Association to further support demographic data, audience preferences, and other industry trends. I have detailed below how each particular resource may be used. 
 
 > | Story Arc | Name | Use | Link |
 > |------|-----|-------------|-------------|
@@ -65,11 +65,11 @@ Text here...
 >| Rise / Conflict | Fandango 2023 Moviegoing Study | Rise: Movie goer preferences. Conflict: Streaming preference data | [Source 4](https://www.boxofficepro.com/wp-content/uploads/2023/04/Fandango-2023-Moviegoing-Study.pdf) |
 >| Rise | National Tracking Poll, Jan 14-15, 2023 (pgs 9-11) | Audience demographic data | [Source 5](https://assets.morningconsult.com/wp-uploads/2023/01/23105341/2301077_crosstabs_MC_ENTERTAINMENT_FAVORITE_DIRECTORS_Adults.pdf?fbclid=IwAR3f5SD7jeqJ2txakDVkyGUfvtm0OcuRtT0s1BGtlWsoJvOJH1VwGFqTQ0w)|
 >| Rise | Motion Picture Association: Theme Report 2021 | Audience demographic data | [Source 6](https://www.motionpictures.org/wp-content/uploads/2022/03/MPA-2021-THEME-Report-FINAL.pdf) |
->| Climax | Comestic Box Office for 2023 | Gross comparison of Barbie to the top 10 movies of 2023 | [Source 7](https://www.boxofficemojo.com/year/2023/?ref_=bo_yl_table_2) |
+>| Climax | Comestic Box Office for 2023 | Gross comparison of *Barbie* to the top 10 movies of 2023 | [Source 7](https://www.boxofficemojo.com/year/2023/?ref_=bo_yl_table_2) |
 >| Climax | Barbenheimer Gender Breakdown | Breakdown of gender and audience for opening weekend | [Source 8](https://www-statista-com.cmu.idm.oclc.org/statistics/1401677/gender-distribution-of-barbie-oppenheimer-worldwide/) |
 >| Climax | Barbenheimer box office | Breakdown of opening weekend revenue | [Source 9](https://www-statista-com.cmu.idm.oclc.org/statistics/1401433/weekend-box-office-revenue-barbie-oppenheimer-us-canada/) |
->| Climax | Barbie Marketing Appeal by Generation | Breakdown of Barbie marketing appeal | [Source 10](https://www-statista-com.cmu.idm.oclc.org/statistics/1402987/share-adults-barbie-movie-marketing-united-states-generation/) |
->| Climax | Movie goers who plan to see Barbie in 2023 | Use as possible correlation with Barbie Marketing appeal data | [Source 11](https://www-statista-com.cmu.idm.oclc.org/statistics/1403592/barbie-moviegoers-share-watch-theaters-us-age/) |
+>| Climax | *Barbie* Marketing Appeal by Generation | Breakdown of *Barbie* marketing appeal | [Source 10](https://www-statista-com.cmu.idm.oclc.org/statistics/1402987/share-adults-barbie-movie-marketing-united-states-generation/) |
+>| Climax | Movie goers who plan to see *Barbie* in 2023 | Use as possible correlation with *Barbie* Marketing appeal data | [Source 11](https://www-statista-com.cmu.idm.oclc.org/statistics/1403592/barbie-moviegoers-share-watch-theaters-us-age/) |
 >| Conflict | Average ticket price by year | Explore if ticket price affects theatre-going |[Source 12](https://www.the-numbers.com/market/) |
 >| Conflict | Domestic Box office Weeklies | Compare strike weeks from 2023 to sales in 2022 | [Source 13](https://www.boxofficemojo.com/weekly/by-year/2023/) |
 >| Conflict | Slicing and Dicing Franchise IP | Studios leaning into the fan demand | [Source 14](https://www.hollywoodreporter.com/movies/movie-news/welcome-to-the-multiverse-studios-lean-into-fan-demand-4118831/) |
