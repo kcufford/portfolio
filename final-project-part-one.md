@@ -58,11 +58,15 @@ Text here...
 > At this point in my research, I have found a lot of data to work with. My goal is not to focus only on box office trends but to include other data relevant to the audience's return to the movie theatre. Since I have a lot of options to work with, the trick will be to make sure what I am using supports my story. This may mean not using all the options below.  Boxofficemojo.com is one of my primary data sources, where I can see daily, weekly, and yearly box office grosses. Unfortunately, there is no way to download the data sets, so these will require a manual copy and paste to Excel.  Statista.com has also been an excellent resource to look at demographic data and box office trends.  I have also found a few industry reports from Morningconsult.com and Motionpictures.org to further support demographic data, audience preferences, and other industry trends. I have detailed below how each particular resource may be used. 
 
 >
-> | Story Arc | Topic | Use | Link |
+> | Story Arc | Name | Use | Link |
 > |------|-----|-------------|-------------|
 > |   Setup & Disordering Event  |  Box Office Revenue 2000-2020 (US & Can)   |  Setup: Showing the difference pre-pandemic to pandemic, as well as post-pandemic data. Disordering event: scroll to reveal the rise of 2023 box office success | https://www-statista-com.cmu.idm.oclc.org/statistics/187069/north-american-box-office-gross-revenue-since-1980/           |
-> | Rise / Climax      |     |             |             |
-> |      |     |             |             |
+> | Rise / Climax      |  2023 World Wide Box Office   |  Rise: Show popularity of top 100 new releases of 2023 by genre (noting IP-specific).  Climax: Worldwide gross & domestic gross for 2023           | https://www.boxofficemojo.com/year/world/2023/?sort=rank&sortDir=asc&ref_=bo_ydw__resort#table            |
+> |  Rise    | 2023 Domestic Box Office Total Grosses   | Show the popularity of the top 100 new releases of 2023 by genre            | https://www.boxofficemojo.com/year/2023/?grossesOption=totalGrosses             |
+>| Rise / Conflict | Fandango 2023 Moviegoing Study | Rise: Movie goer preferences. Conflict: Streaming preference data | https://www.boxofficepro.com/wp-content/uploads/2023/04/Fandango-2023-Moviegoing-Study.pdf |
+>| Rise | National Tracking Poll, Jan 14-15, 2023 (pgs 9-11) | Audience demographic data | https://assets.morningconsult.com/wp-uploads/2023/01/23105341/2301077_crosstabs_MC_ENTERTAINMENT_FAVORITE_DIRECTORS_Adults.pdf?fbclid=IwAR3f5SD7jeqJ2txakDVkyGUfvtm0OcuRtT0s1BGtlWsoJvOJH1VwGFqTQ0w\|
+>| Rise | Motion Picture Association: Theme Report 2021 | Audience demographic data | https://www.motionpictures.org/wp-content/uploads/2022/03/MPA-2021-THEME-Report-FINAL.pdf |
+>| Climax | Comestic Box Office for 2023 | Gross comparison of Barbie to the top 10 movies of 2023 | https://www.boxofficemojo.com/year/2023/?ref_=bo_yl_table_2 |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
