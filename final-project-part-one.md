@@ -55,17 +55,14 @@
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+> At this point in my research, I have found a lot of data to work with. My goal is not to focus only on box office trends but to include other data relevant to the audience's return to the movie theatre. Since I have a lot of options to work with, the trick will be to make sure what I am using supports my story. This may mean not using all the options below.  Boxofficemojo.com is one of my primary data sources, where I can see daily, weekly, and yearly box office grosses. Unfortunately, there is no way to download the data sets, so these will require a manual copy and paste to Excel.  Statista.com has also been an excellent resource to look at demographic data and box office trends.  I have also found a few industry reports from Morningconsult.com and Motionpictures.org to further support demographic data, audience preferences, and other industry trends. I have detailed below how each particular resource may be used. 
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+>
+> | Story Arc | Topic | Use | Link |
+> |------|-----|-------------|-------------|
+> |   Setup & Disordering Event  |  Box Office Revenue 2000-2020 (US & Can)   |  Setup: Showing the difference pre-pandemic to pandemic, as well as post-pandemic data. Disordering event: scroll to reveal the rise of 2023 box office success | https://www-statista-com.cmu.idm.oclc.org/statistics/187069/north-american-box-office-gross-revenue-since-1980/           |
+> | Rise / Climax      |     |             |             |
+> |      |     |             |             |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
