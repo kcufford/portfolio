@@ -50,11 +50,11 @@
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline and include elements of your story.  
+> <img src="Sketch 1.jpg" width="300"/> <img src="Sketch 2.jpg" width="300"/> <img src="Sketch 3.jpg" width="300"/>
+> <img src="Sketch 4.jpg" width="300"/> <img src="Sketch 5.jpg" width="300"/> <img src="Sketch 6.jpg" width="300"/>
+> <img src="Sketch 7.jpg" width="300"/> <img src="Sketch 8.jpg" width="300"/>
 
-Text here...
-
-# The data
+## The data
 > At this point in my research, I have found a lot of data to work with. My goal is not to focus only on box office trends but to include other data relevant to the audience's return to the movie theatre. Since I have a lot of options to work with, the trick will be to make sure what I am using supports my story. This may mean not using all the options below. Box Office Mojo is one of my primary data sources, where I can see daily, weekly, and yearly box office grosses. Unfortunately, there is no way to download the data sets, so these will require a manual copy and paste to Excel.  Statista has also been an excellent resource to look at demographic data and box office trends.  I have also found a few industry reports from Morning Consult and the Motion Picture Association to further support demographic data, audience preferences, and other industry trends. I have detailed below how each particular resource may be used. 
 
 > | Story Arc | Name | Use | Link |
@@ -76,7 +76,7 @@ Text here...
 >| Conflict | Domestic Yearly Box Office | Examine the top-grossing films over the past 10 years and see how many are IP based and whether that may impact future demands | [Source 15](https://www.boxofficemojo.com/year/) |
 >|Resolution | Movies that could gross $100M in 2024 | Determine which predicted high-earning films are IP based and compare it to non-IP |  [Source 16](https://deadline.com/2023/12/box-office-2024-predictions-movies-cinemas-1235682149/) |
 
-# Method and medium
+## Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
 Text here...
