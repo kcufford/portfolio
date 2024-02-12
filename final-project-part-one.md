@@ -1,4 +1,4 @@
-| [Home](https://kcufford.github.io/portfolio/) | [Visualizing Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+![image](https://github.com/kcufford/portfolio/assets/156830079/464db9be-d819-4ead-bf3a-8fbbcfd4d3a4)| [Home](https://kcufford.github.io/portfolio/) | [Visualizing Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 
 # Final Project: Part 1
@@ -67,6 +67,15 @@ Text here...
 >| Rise | National Tracking Poll, Jan 14-15, 2023 (pgs 9-11) | Audience demographic data | https://assets.morningconsult.com/wp-uploads/2023/01/23105341/2301077_crosstabs_MC_ENTERTAINMENT_FAVORITE_DIRECTORS_Adults.pdf?fbclid=IwAR3f5SD7jeqJ2txakDVkyGUfvtm0OcuRtT0s1BGtlWsoJvOJH1VwGFqTQ0w\|
 >| Rise | Motion Picture Association: Theme Report 2021 | Audience demographic data | https://www.motionpictures.org/wp-content/uploads/2022/03/MPA-2021-THEME-Report-FINAL.pdf |
 >| Climax | Comestic Box Office for 2023 | Gross comparison of Barbie to the top 10 movies of 2023 | https://www.boxofficemojo.com/year/2023/?ref_=bo_yl_table_2 |
+>| Climax | Barbenheimer Gender Breakdown | Breakdown of gender and audience for opening weekend | https://www-statista-com.cmu.idm.oclc.org/statistics/1401677/gender-distribution-of-barbie-oppenheimer-worldwide/ |
+>| Climax | Barbenheimer box office | Breakdown of opening weekend revenue | https://www-statista-com.cmu.idm.oclc.org/statistics/1401433/weekend-box-office-revenue-barbie-oppenheimer-us-canada/ |
+>| Climax | Barbie Marketing Appeal by Generation | Breakdown of Barbie marketing appeal | https://www-statista-com.cmu.idm.oclc.org/statistics/1402987/share-adults-barbie-movie-marketing-united-states-generation/ |
+>| Climax | Movie goers who plan to see Barbie in 2023 | Use as possible correlation with Barbie Marketing appeal data | https://www-statista-com.cmu.idm.oclc.org/statistics/1403592/barbie-moviegoers-share-watch-theaters-us-age/ |
+>| Conflict | Average ticket price by year | Explore if ticket price affects theatre-going | https://www.the-numbers.com/market/ |
+>| Conflict | Domestic Box office Weeklies | Compare strike weeks from 2023 to sales in 2022 | https://www.boxofficemojo.com/weekly/by-year/2023/ |
+>| Conflict | Slicing and Dicing Franchise IP | Studios leaning into the fan demand | https://www.hollywoodreporter.com/movies/movie-news/welcome-to-the-multiverse-studios-lean-into-fan-demand-4118831/ |
+>| Conflict | Domestic Yearly Box Office | Examine the top-grossing films over the past 10 years and see how many are IP based and whether that may impact future demands | https://www.boxofficemojo.com/year/ |
+>|Resolution | Movies that could gross $100M in 2024 | Determine which predicted high-earning films are IP based and compare it to non-IP |  https://deadline.com/2023/12/box-office-2024-predictions-movies-cinemas-1235682149/ |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
