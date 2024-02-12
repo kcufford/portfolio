@@ -55,7 +55,9 @@
 > <img src="Sketch 7a.jpg" width="300"/> <img src="Sketch 8a.jpg" width="300"/>
 
 ## The data
-> At this point in my research, I have found a lot of data to work with. My goal is not to focus only on box office trends but to include other data relevant to the audience's return to the movie theatre. Since I have a lot of options to work with, the trick will be to make sure what I am using supports my story. This may mean not using all the options below. Box Office Mojo is one of my primary data sources, where I can see daily, weekly, and yearly box office grosses. Unfortunately, there is no way to download the data sets, so these will require a manual copy and paste to Excel.  Statista has also been an excellent resource to look at demographic data and box office trends.  I have also found a few industry reports from Morning Consult and the Motion Picture Association to further support demographic data, audience preferences, and other industry trends. I have detailed below how each particular resource may be used. 
+> At this point in my research, I have found a lot of data to work with. My goal is not to focus only on box office trends but to include other data relevant to the audience's return to the movie theatre. Since I have a lot of options to work with, the trick will be to make sure what I am using supports my story. This may mean not using all the options below. As I was completing sketches, I identified some areas that I may remove from the final project, but I at least have some documentation for potential sources to use.
+>
+> Box Office Mojo is one of my primary data sources, where I can see daily, weekly, and yearly box office grosses. Unfortunately, there is no way to download the data sets, so these will require a manual copy and paste to Excel.  Statista has also been an excellent resource to look at demographic data and box office trends.  I have also found a few industry reports from Morning Consult and the Motion Picture Association to further support demographic data, audience preferences, and other industry trends. I have detailed below how each particular resource may be used. 
 >
 > | Story Arc | Name | Use | Link |
 > |------|-----|-------------|-------------|
@@ -77,6 +79,5 @@
 >|Resolution | Movies that could gross $100M in 2024 | Determine which predicted high-earning films are IP based and compare it to non-IP |  [16](https://deadline.com/2023/12/box-office-2024-predictions-movies-cinemas-1235682149/) |
 
 ## Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> I plan on utilizing Shorthand and Tableau for my final project. If needed, I may also create some visualizations in Canva for calling out single data points, such as highlighting the percentage of IP-based films that were the top-grossing films of the past 20 years.  I am looking forward to digging into shorthand, as I have some experience creating Wix websites.
 
-Text here...
