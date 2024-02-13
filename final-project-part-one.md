@@ -37,7 +37,7 @@
 >
 > In this section, we will drive into some of the potential conflicts of our story.  First, we will look at staying at home and streaming film vs. wanting to come to the theatre. We'll also dig into the question of whether or not audiences want IP-based films or more original content.
 >
-> **Resolution:** 2024 Horizon
+> **Resolution:** Films on the horizon in 2024
 >
 > To finish our story, we will examine the most anticipated films of 2024, how many are IP-based, and potential forecasting data.
 >
