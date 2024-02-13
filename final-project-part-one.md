@@ -29,7 +29,7 @@
 > 
 >We start to see a climb in box office numbers with hits like *Super Mario Bros* and *Spiderman: Across the Spider-Verse*. As the story continues to rise, we will explore the popularity of the top 100 releases of 2023 by genre, both domestic and worldwide.  We will also take a look at who is coming back to the theatre and why.
 > 
-> **Climax:** Barbie Mania
+> **Climax:** *Barbie* Mania
 >
 > *Barbie* is the highest point of our 2023 trends, and we will compare the film’s box office stats to the other top movies of 2023. We will also explore demographic data from the opening weekend, the effects of the *Barbie* movie marketing strategy, and its potential correlation to its box office success.
 >
@@ -53,6 +53,15 @@
 > <img src="Sketch 1a.jpg" width="350"/> <img src="Sketch 2b.jpg" width="350"/> <img src="Sketch 3b.jpg" width="350"/>
 > <img src="Sketch 4b.jpg" width="350"/> <img src="Sketch 5a.jpg" width="350"/> <img src="Sketch 6b.jpg" width="350"/>
 > <img src="Sketch 7b.jpg" width="350"/> <img src="Sketch 8a.jpg" width="350"/>
+
+
+### In-Class Feedback
+> My group during the in-class exercise noted the following:
+> - Great titles! Though not complete, we can tell what the story will be about and how the visualizations will support
+> - There is a good range of different data types that can be used to support the story; (age group, genre, etc.)
+> - Good use of different visualization types; simple and will be easy to interpret
+>
+> As noted in the next section below, I have plenty of data to work with.  Going forward, I will want to focus my attention on the main points that tell the story, and then if there is time, add in additional supporting data/visualizations.
 
 ## The data
 > At this point in my research, I have found a lot of data to work with. My goal is not to focus only on box office trends but to include other data relevant to the audience's return to the movie theatre. Since I have a lot of options to work with, the trick will be to make sure what I am using supports my story. This may mean not using all the options below. As I was completing sketches, I identified some areas that I may remove from the final project, but I at least have some documentation for potential sources to use.
