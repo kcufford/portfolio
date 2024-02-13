@@ -35,7 +35,7 @@
 >
 > **Conflict:** Is IP enough to keep audiences coming to the theatre? Is “IP fatigue” setting in?
 >
-> In this section, we will drive into some of the potential conflicts of our story.  First, we will look at staying at home and streaming film vs. wanting to come to the theatre. We’ll also see if there is any impact from the SAG-AFTRA strikes that may have affected certain IP films, such as *Blue Beetle*, due to a lack of promotion. Finally, we’ll dig into the question of whether or not audiences want IP-based films or more original content.
+> In this section, we will drive into some of the potential conflicts of our story.  First, we will look at staying at home and streaming film vs. wanting to come to the theatre. We'll also dig into the question of whether or not audiences want IP-based films or more original content.
 >
 > **Resolution:** 2024 Horizon
 >
@@ -73,10 +73,9 @@
 >| Climax | *Barbie* Marketing Appeal by Generation | Breakdown of *Barbie* marketing appeal | [10](https://www-statista-com.cmu.idm.oclc.org/statistics/1402987/share-adults-barbie-movie-marketing-united-states-generation/) |
 >| Climax | Movie goers who plan to see *Barbie* in 2023 | Use as possible correlation with *Barbie* Marketing appeal data | [11](https://www-statista-com.cmu.idm.oclc.org/statistics/1403592/barbie-moviegoers-share-watch-theaters-us-age/) |
 >| Conflict | Average ticket price by year | Explore if ticket price affects theatre-going |[12](https://www.the-numbers.com/market/) |
->| Conflict | Domestic Box office Weeklies | Compare strike weeks from 2023 to sales in 2022 | [13](https://www.boxofficemojo.com/weekly/by-year/2023/) |
->| Conflict | Slicing and Dicing Franchise IP | Studios leaning into the fan demand | [14](https://www.hollywoodreporter.com/movies/movie-news/welcome-to-the-multiverse-studios-lean-into-fan-demand-4118831/) |
->| Conflict | Domestic Yearly Box Office | Examine the top-grossing films over the past 10 years and see how many are IP based and whether that may impact future demands | [15](https://www.boxofficemojo.com/year/) |
->|Resolution | Movies that could gross $100M in 2024 | Determine which predicted high-earning films are IP based and compare it to non-IP |  [16](https://deadline.com/2023/12/box-office-2024-predictions-movies-cinemas-1235682149/) |
+>| Conflict | Slicing and Dicing Franchise IP | Studios leaning into the fan demand | [13](https://www.hollywoodreporter.com/movies/movie-news/welcome-to-the-multiverse-studios-lean-into-fan-demand-4118831/) |
+>| Conflict | Domestic Yearly Box Office | Examine the top-grossing films over the past 10 years and see how many are IP based and whether that may impact future demands | [14](https://www.boxofficemojo.com/year/) |
+>|Resolution | Movies that could gross $100M in 2024 | Determine which predicted high-earning films are IP based and compare it to non-IP |  [15](https://deadline.com/2023/12/box-office-2024-predictions-movies-cinemas-1235682149/) |
 
 ## Method and medium
 > I plan on utilizing Shorthand and Tableau for my final project. If needed, I may also create some visualizations in Canva for calling out single data points, such as highlighting the percentage of IP-based films that were the top-grossing films of the past 20 years.  I am looking forward to digging into shorthand, as I have some experience creating Wix websites.
