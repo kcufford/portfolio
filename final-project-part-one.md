@@ -50,9 +50,9 @@
 
 
 ## Initial sketches
-> <img src="Sketch 1a.jpg" width="300"/> <img src="Sketch 2b.jpg" width="300"/> <img src="Sketch 3b.jpg" width="300"/>
-> <img src="Sketch 4b.jpg" width="300"/> <img src="Sketch 5a.jpg" width="300"/> <img src="Sketch 6b.jpg" width="300"/>
-> <img src="Sketch 7b.jpg" width="300"/> <img src="Sketch 8a.jpg" width="300"/>
+> <img src="Sketch 1a.jpg" width="350"/> <img src="Sketch 2b.jpg" width="350"/> <img src="Sketch 3b.jpg" width="350"/>
+> <img src="Sketch 4b.jpg" width="350"/> <img src="Sketch 5a.jpg" width="350"/> <img src="Sketch 6b.jpg" width="350"/>
+> <img src="Sketch 7b.jpg" width="350"/> <img src="Sketch 8a.jpg" width="350"/>
 
 ## The data
 > At this point in my research, I have found a lot of data to work with. My goal is not to focus only on box office trends but to include other data relevant to the audience's return to the movie theatre. Since I have a lot of options to work with, the trick will be to make sure what I am using supports my story. This may mean not using all the options below. As I was completing sketches, I identified some areas that I may remove from the final project, but I at least have some documentation for potential sources to use.
