@@ -1,5 +1,6 @@
 | [Home](https://kcufford.github.io/portfolio/) | [Visualizing Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
+# ADD LINK TO SHORTHAND!!!!!
 # Wireframes / storyboards
 > 
 >*Original Setup: Introduce the state of the film industry by showing the drastic changes in the box office from pre-pandemic to pandemic, followed by the slow rise beginning in 2022 and the spike starting in 2023.*
