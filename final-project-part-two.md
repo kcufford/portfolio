@@ -1,7 +1,9 @@
 | [Home](https://kcufford.github.io/portfolio/) | [Visualizing Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # ADD LINK TO SHORTHAND!!!!!
-# Wireframes / storyboards
+#Final Project: Part II
+
+## Wireframes / storyboards
 > 
 >*Original Setup: Introduce the state of the film industry by showing the drastic changes in the box office from pre-pandemic to pandemic, followed by the slow rise beginning in 2022 and the spike starting in 2023.*
 > 
@@ -33,14 +35,14 @@
 > 
 > Updated: I am still scoping out the best call to action, and that will largely depend on how I further define my audience. Right now, the presentation can be geared to both professionals and casual movie viewers, so the trick will be to find an appropriate CTA for professionals.
 
-# User research 
+## User research 
 
-## Target audience
+### Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 Text here!
 
-## Interview script
+### Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
 Text here!
@@ -54,7 +56,7 @@ Text here!
 
 Text here!
 
-## Interview findings
+### Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
@@ -66,7 +68,7 @@ Text here!
 |                         |                                |             |             |
 
 
-# Identified changes for Part III
+## Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
 Text here!
@@ -83,8 +85,8 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+## Moodboards / personas
+> ###ADD PINTEREST!!
 
 Text here!
 
