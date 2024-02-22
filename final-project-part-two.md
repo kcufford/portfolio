@@ -3,9 +3,9 @@
 
 # Final Project: Part II
 
-## Wireframes / storyboards
+## Wireframes / Storyboards
 >
-> # ADD LINK TO SHORTHAND!!!!!
+> [**Link to Shorthand**](https://carnegiemellon.shorthandstories.com/ip-drives-the-box-office/index.html)  
 >
 > **_Original Setup:_** *Introduce the state of the film industry by showing the drastic changes in the box office from pre-pandemic to pandemic, followed by the slow rise beginning in 2022 and the spike starting in 2023.*
 > 
@@ -88,8 +88,7 @@
 > From the feedback I received both from my interviews and classmates, the main thing I need to focus on is the message for the casual viewer. I felt like I had a good grasp going in, but I can see where this needs to be improved. A common theme was that the story was interesting, but they did not feel compelled to go do something.  Along the same lines, one classmate noted that general people don’t think about IP when they go to the movies, so I should emphasize why they should go to the movies and incorporate that into the topic. Another note from the class was that if my call to action (Letterboxd) can be used for films both in and out of theatres (on streaming), why, then, is watching at home a bad thing? They were unclear on the main point that the story is to get more people to the movies and that IP has been driving the box office.
 
 ## Identified changes for Part III
-> Going forward, I think I may narrow my focus solely on entertainment professionals/movie makers. This may help drive home the idea that in order to make more money at the box office, you need to take note of what trends, in this case IP, are doing the best. If there is a way to capitalize on it, then that would be the call to action. I have an idea in mind that would point professionals to a social listening site, Brandwatch, that could be used to gather data on what is trending and sentiment and could be used to develop a go-to-market strategy. If I go this route, I will still keep my set-up information about IP to provide the context for the story, even though industry professionals would already know what it is. 
-I also plan to test the tree map idea noted above, and I will clean up my visualizations to ensure all of the important elements (legends, sub headings) are clear and informative. Lastly, I will need to add my final pieces of text to Shorthand, where I currently have placeholders.
+> Going forward, I think I may narrow my focus solely on entertainment professionals/movie makers. This may help drive home the idea that in order to make more money at the box office, you need to take note of what trends, in this case IP, are doing the best. If there is a way to capitalize on it, then that would be the call to action. I have an idea in mind that would point professionals to a social listening site, Brandwatch, that could be used to gather data on what is trending and sentiment and could be used to develop a go-to-market strategy. If I go this route, I will still keep my set-up information about IP to provide the context for the story, even though industry professionals would already know what it is. I also plan to test the tree map idea noted above, and I will clean up my visualizations to ensure all of the important elements (legends, sub headings) are clear and informative. Lastly, I am continuing to workshop my title, and I will need to add my final pieces of text to Shorthand, where I currently have placeholders.
 
 
 ## Moodboard
