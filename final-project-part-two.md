@@ -81,32 +81,18 @@
 |   Was anything unclear or maybe not needed to tell this story? Do the visualizations support the story?                      |  The visuals support the story, but the following was unclear: The labels on the first line graph should be clearer that $8.91B is for 2023, not 2022. Maybe add a note that domestic refers to U.S. and Canada. For the top genres graph, maybe add a sub heading of IP vs. Original to further clarify. For the *Barbie* marketing, the legend is hard to read (too small)                               | Nothing felt unnecessary; it was succinct and supported.          | Nothing was unclear or felt not needed. Since this was all new information, I found the visuals helpful.  I really liked the black and yellow color scheme, and then the change to pink for *Barbie*, then going back to the main theme.           |
 |  What were your final thoughts at the end of the presentation? Did you feel a call to action, and if so, what?                       |  Well done! I didn't feel called to action. As a casual viewer, it felt more informational than action-oriented. I guess I should go watch a movie? |  By the end, I could see where you were going with everything and made a strong point about IP's influence. I will maybe look into what's coming out in 2024 and feel inspired to go to the movies.           | I felt compelled to go read more about the topic of IP.            |
 
-> Takeaways:
+> ** Insights
 > 
 > Overall, I received positive feedback on the visualizations and general story outline.  There are a few elements to clean up on the visualizations, but the response was that it all supported the story. During the in-class critique, one classmate suggested making the Top Grossing Films of the Past 20 Years into a tree map (rather than a highlighted table) to make a bigger impact. Whereas another viewer noted that visualization stood out to them, with the data being a surprise. I may play around with this idea of a tree map and see if it fits with my vision for the layout. One of my goals with the feedback was to see if it was too much or just the right amount, and in this case, it felt like the right amount to my interviewees. 
 >
 > From the feedback I received both from my interviews and classmates, the main thing I need to focus on is the message for the casual viewer. I felt like I had a good grasp going in, but I can see where this needs to be improved. A common theme was that the story was interesting, but they did not feel compelled to go do something.  Along the same lines, one classmate noted that general people don’t think about IP when they go to the movies, so I should emphasize why they should go to the movies and incorporate that into the topic. Another note from the class was that if my call to action (Letterboxd) can be used for films both in and out of theatres (on streaming), why, then, is watching at home a bad thing? They were unclear on the main point that the story is to get more people to the movies and that IP has been driving the box office.
 
-
 ## Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+> Going forward, I think I may narrow my focus solely on entertainment professionals/movie makers. This may help drive home the idea that in order to make more money at the box office, you need to take note of what trends, in this case IP, are doing the best. If there is a way to capitalize on it, then that would be the call to action. I have an idea in mind that would point professionals to a social listening site, Brandwatch, that could be used to gather data on what is trending and sentiment and could be used to develop a go-to-market strategy. If I go this route, I will still keep my set-up information about IP to provide the context for the story, even though industry professionals would already know what it is. 
+I also plan to test the tree map idea noted above, and I will clean up my visualizations to ensure all of the important elements (legends, sub headings) are clear and informative. Lastly, I will need to add my final pieces of text to Shorthand, where I currently have placeholders.
 
-Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+## Moodboard
+> <img src="Mood Board.png" width="1500"/>
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-## Moodboards / personas
-> ###ADD PINTEREST!!
-
-Text here!
 
