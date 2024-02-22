@@ -38,7 +38,7 @@
 > 
 > **Updated:** I am still scoping out the best call to action, and that will largely depend on how I further define my audience. Right now, the presentation can be geared toward both professionals and casual movie viewers, but as noted below, the CTA for casual viewers needed further clarification for some of the folks I interviewed.
 
-## User Research Protocol: Goals, Audience, and Reprpresentative Approach
+## User Research Protocol: Goals, Audience, and Representative Approach
 
 >As I seek out user feedback, I am hoping to gain a better understanding of how my story is interpreted and what parts could be enhanced or removed.  I mentioned in Part I that I have a ton of data and ideas to work with, so the key here will be narrowing down and finding focus. I also want to test if my call to action is strong enough from both audience perspectives.
 >
@@ -92,6 +92,6 @@
 
 
 ## Moodboard
-> <img src="Mood Board.png" width="1500"/>
+> <img src="Mood Board.png" width="3000"/>
 
 
