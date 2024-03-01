@@ -36,7 +36,4 @@ Having worked with data analysis in my previous roles, I am excited to grow my s
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
-## Final project
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+## Final project: [Part I](final-project-part-one)  |  [Part II](final-project-part-two)  |  [Part III](final-project-part-three)
