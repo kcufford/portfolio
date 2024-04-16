@@ -14,7 +14,7 @@ Welcome! This is my public portfolio for Telling Stories with Data at CMU - Spri
 
 &#x1F5FB; **Hobbies:** Hiking, kayaking, baking, watching movies/TV, video games
 
-&#x1F3A5; **Currently Watching:**  *Broad City* on Hulu (re-watch!) and *The Traitors - Season 2* on Peacock
+&#x1F3A5; **Currently Watching:**  *Top Chef* and *Abbott Elementary*
 
 <br clear="left"/>
 
